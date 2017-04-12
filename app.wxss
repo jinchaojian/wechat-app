@@ -1,0 +1,19 @@
+/**app.wxss**/
+page{
+  height: 100%;
+}
+.container {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0 100rpx 0;
+  box-sizing: border-box;
+  background-image: url(https://www.dujin.org/sys/bing/1920.php);
+  background-position: center;
+  background-size: cover;
+} 
+
+
