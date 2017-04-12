@@ -6,3 +6,6 @@
 
 # 预览
  ![](https://github.com/jinchaojian/wechat-app/blob/master/img/b.gif)
+
+# 小程序二维码
+![](https://github.com/jinchaojian/wechat-app/blob/master/img/a.jpg)
